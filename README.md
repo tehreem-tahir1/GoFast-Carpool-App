@@ -137,19 +137,6 @@ Search rides based on:
 ### **Email Services**
 
 * Nodemailer (verification & recovery)
-
----
-
-## ✅ Completeness Criteria
-
-* Verified sign-up & profile creation
-* Carpool post creation system
-* Search & filtering
-* Booking and real-time messaging
-* Ratings and reviews
-* Live location sharing
-* Fully deployed for FAST NUCES students
-
 ---
 
 ## 🎯 Project Outcomes
@@ -163,7 +150,7 @@ Search rides based on:
 
 ---
 
-## 📌 Completeness Criteria (Repeat — cleaned)
+## 📌 Completeness Criteria
 
 * Verified sign-up and profile creation
 * Carpool post creation & filtering
