@@ -123,13 +123,6 @@ Search rides based on:
 - Fully deployed and functional for FAST NUCES students  
 
 ---
-
-## ▶️ How to Run the Project
-
-From the main folder:
-
-```bash
-npm run start
 ----
 
 ###🎯 Project Outcomes
@@ -161,3 +154,10 @@ Project Link: https://lnkd.in/dvp4CjME
 GoFAST is designed to improve the daily commute for FAST NUCES students by making it easier to share rides. With a focus on trust, convenience, and sustainability, it creates a connected and eco-conscious student community.
 
 ---
+## ▶️ How to Run the Project
+
+From the main folder:
+
+```bash
+npm run start
+
