@@ -1,7 +1,3 @@
-Here is the **fixed, clean, properly formatted GitHub Markdown** version of your entire document.
-All headings, spacing, lists, and sections have been corrected.
-Just copy–paste into your README.md.
-
 ---
 
 # 🚗 GoFAST – Carpooling App for FAST NUCES Students
