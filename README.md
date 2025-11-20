@@ -1,5 +1,3 @@
----
-
 # 🚗 GoFAST – Carpooling App for FAST NUCES Students
 
 GoFAST is a MERN stack-based web application designed to help FAST NUCES students coordinate carpools efficiently. Built as part of our **Web Engineering course**, the platform reduces commute costs, promotes eco-friendly travel, and provides a safe, student-only carpooling system using verified FAST university emails.
