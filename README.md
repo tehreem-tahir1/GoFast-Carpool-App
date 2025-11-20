@@ -131,7 +131,8 @@ From the main folder:
 ```bash
 npm run start
 ----
-🎯 Project Outcomes
+
+###🎯 Project Outcomes
 
 -End-to-end carpooling system for FAST students
 -Secure authentication with email verification
@@ -141,7 +142,7 @@ npm run start
 -Designed exclusively for the FAST NUCES community
 ---------
 
-## Completeness Criteria
+###Completeness Criteria
 
 - Verified sign-up and profile creation
 - Carpool post creation and filtering
@@ -150,12 +151,12 @@ npm run start
 - Real-time location sharing
 - App deployed and usable by students
 ------
-🔗 Live Preview
+###🔗 Live Preview
 
 Project Link: https://lnkd.in/dvp4CjME
 ---
 
-## Conclusion
+###Conclusion
 
 GoFAST is designed to improve the daily commute for FAST NUCES students by making it easier to share rides. With a focus on trust, convenience, and sustainability, it creates a connected and eco-conscious student community.
 
